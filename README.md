@@ -1,0 +1,2 @@
+# financetracker
+financetracker static html
